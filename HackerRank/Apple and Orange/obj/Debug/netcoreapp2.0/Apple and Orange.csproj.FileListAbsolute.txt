@@ -1,0 +1,11 @@
+C:\Users\niko1.NVG\Desktop\Demo\Apple and Orange\bin\Debug\netcoreapp2.0\Apple and Orange.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Apple and Orange\bin\Debug\netcoreapp2.0\Apple and Orange.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Apple and Orange\bin\Debug\netcoreapp2.0\Apple and Orange.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Apple and Orange\bin\Debug\netcoreapp2.0\Apple and Orange.dll
+C:\Users\niko1.NVG\Desktop\Demo\Apple and Orange\bin\Debug\netcoreapp2.0\Apple and Orange.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Apple and Orange\obj\Debug\netcoreapp2.0\Apple and Orange.csprojAssemblyReference.cache
+C:\Users\niko1.NVG\Desktop\Demo\Apple and Orange\obj\Debug\netcoreapp2.0\Apple and Orange.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Apple and Orange\obj\Debug\netcoreapp2.0\Apple and Orange.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Apple and Orange\obj\Debug\netcoreapp2.0\Apple and Orange.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Apple and Orange\obj\Debug\netcoreapp2.0\Apple and Orange.dll
+C:\Users\niko1.NVG\Desktop\Demo\Apple and Orange\obj\Debug\netcoreapp2.0\Apple and Orange.pdb

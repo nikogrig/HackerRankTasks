@@ -1,0 +1,10 @@
+C:\Users\niko1.NVG\Desktop\Demo\Staircase\bin\Debug\netcoreapp2.0\Staircase.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Staircase\bin\Debug\netcoreapp2.0\Staircase.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Staircase\bin\Debug\netcoreapp2.0\Staircase.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Staircase\bin\Debug\netcoreapp2.0\Staircase.dll
+C:\Users\niko1.NVG\Desktop\Demo\Staircase\bin\Debug\netcoreapp2.0\Staircase.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Staircase\obj\Debug\netcoreapp2.0\Staircase.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Staircase\obj\Debug\netcoreapp2.0\Staircase.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Staircase\obj\Debug\netcoreapp2.0\Staircase.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Staircase\obj\Debug\netcoreapp2.0\Staircase.dll
+C:\Users\niko1.NVG\Desktop\Demo\Staircase\obj\Debug\netcoreapp2.0\Staircase.pdb

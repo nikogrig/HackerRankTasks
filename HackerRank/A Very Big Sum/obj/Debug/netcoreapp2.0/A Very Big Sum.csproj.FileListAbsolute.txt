@@ -1,0 +1,10 @@
+C:\Users\niko1.NVG\Desktop\Demo\A Very Big Sum\bin\Debug\netcoreapp2.0\A Very Big Sum.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\A Very Big Sum\bin\Debug\netcoreapp2.0\A Very Big Sum.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\A Very Big Sum\bin\Debug\netcoreapp2.0\A Very Big Sum.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\A Very Big Sum\bin\Debug\netcoreapp2.0\A Very Big Sum.dll
+C:\Users\niko1.NVG\Desktop\Demo\A Very Big Sum\bin\Debug\netcoreapp2.0\A Very Big Sum.pdb
+C:\Users\niko1.NVG\Desktop\Demo\A Very Big Sum\obj\Debug\netcoreapp2.0\A Very Big Sum.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\A Very Big Sum\obj\Debug\netcoreapp2.0\A Very Big Sum.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\A Very Big Sum\obj\Debug\netcoreapp2.0\A Very Big Sum.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\A Very Big Sum\obj\Debug\netcoreapp2.0\A Very Big Sum.dll
+C:\Users\niko1.NVG\Desktop\Demo\A Very Big Sum\obj\Debug\netcoreapp2.0\A Very Big Sum.pdb

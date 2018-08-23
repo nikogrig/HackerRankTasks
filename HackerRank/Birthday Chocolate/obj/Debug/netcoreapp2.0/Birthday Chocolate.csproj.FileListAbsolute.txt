@@ -1,0 +1,11 @@
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Chocolate\bin\Debug\netcoreapp2.0\Birthday Chocolate.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Chocolate\bin\Debug\netcoreapp2.0\Birthday Chocolate.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Chocolate\bin\Debug\netcoreapp2.0\Birthday Chocolate.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Chocolate\bin\Debug\netcoreapp2.0\Birthday Chocolate.dll
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Chocolate\bin\Debug\netcoreapp2.0\Birthday Chocolate.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Chocolate\obj\Debug\netcoreapp2.0\Birthday Chocolate.csprojAssemblyReference.cache
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Chocolate\obj\Debug\netcoreapp2.0\Birthday Chocolate.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Chocolate\obj\Debug\netcoreapp2.0\Birthday Chocolate.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Chocolate\obj\Debug\netcoreapp2.0\Birthday Chocolate.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Chocolate\obj\Debug\netcoreapp2.0\Birthday Chocolate.dll
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Chocolate\obj\Debug\netcoreapp2.0\Birthday Chocolate.pdb

@@ -1,0 +1,11 @@
+C:\Users\niko1.NVG\Desktop\Demo\Compare the Triplets\bin\Debug\netcoreapp2.0\Compare the Triplets.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Compare the Triplets\bin\Debug\netcoreapp2.0\Compare the Triplets.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Compare the Triplets\bin\Debug\netcoreapp2.0\Compare the Triplets.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Compare the Triplets\bin\Debug\netcoreapp2.0\Compare the Triplets.dll
+C:\Users\niko1.NVG\Desktop\Demo\Compare the Triplets\bin\Debug\netcoreapp2.0\Compare the Triplets.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Compare the Triplets\obj\Debug\netcoreapp2.0\Compare the Triplets.csprojAssemblyReference.cache
+C:\Users\niko1.NVG\Desktop\Demo\Compare the Triplets\obj\Debug\netcoreapp2.0\Compare the Triplets.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Compare the Triplets\obj\Debug\netcoreapp2.0\Compare the Triplets.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Compare the Triplets\obj\Debug\netcoreapp2.0\Compare the Triplets.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Compare the Triplets\obj\Debug\netcoreapp2.0\Compare the Triplets.dll
+C:\Users\niko1.NVG\Desktop\Demo\Compare the Triplets\obj\Debug\netcoreapp2.0\Compare the Triplets.pdb

@@ -1,0 +1,11 @@
+C:\Users\niko1.NVG\Desktop\Demo\Kangaroo\bin\Debug\netcoreapp2.0\Kangaroo.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Kangaroo\bin\Debug\netcoreapp2.0\Kangaroo.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Kangaroo\bin\Debug\netcoreapp2.0\Kangaroo.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Kangaroo\bin\Debug\netcoreapp2.0\Kangaroo.dll
+C:\Users\niko1.NVG\Desktop\Demo\Kangaroo\bin\Debug\netcoreapp2.0\Kangaroo.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Kangaroo\obj\Debug\netcoreapp2.0\Kangaroo.csprojAssemblyReference.cache
+C:\Users\niko1.NVG\Desktop\Demo\Kangaroo\obj\Debug\netcoreapp2.0\Kangaroo.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Kangaroo\obj\Debug\netcoreapp2.0\Kangaroo.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Kangaroo\obj\Debug\netcoreapp2.0\Kangaroo.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Kangaroo\obj\Debug\netcoreapp2.0\Kangaroo.dll
+C:\Users\niko1.NVG\Desktop\Demo\Kangaroo\obj\Debug\netcoreapp2.0\Kangaroo.pdb

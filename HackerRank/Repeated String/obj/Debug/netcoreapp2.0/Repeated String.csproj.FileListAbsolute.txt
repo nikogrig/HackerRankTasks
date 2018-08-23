@@ -1,0 +1,11 @@
+C:\Users\niko1.NVG\Desktop\Demo\Repeated String\bin\Debug\netcoreapp2.0\Repeated String.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Repeated String\bin\Debug\netcoreapp2.0\Repeated String.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Repeated String\bin\Debug\netcoreapp2.0\Repeated String.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Repeated String\bin\Debug\netcoreapp2.0\Repeated String.dll
+C:\Users\niko1.NVG\Desktop\Demo\Repeated String\bin\Debug\netcoreapp2.0\Repeated String.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Repeated String\obj\Debug\netcoreapp2.0\Repeated String.csprojAssemblyReference.cache
+C:\Users\niko1.NVG\Desktop\Demo\Repeated String\obj\Debug\netcoreapp2.0\Repeated String.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Repeated String\obj\Debug\netcoreapp2.0\Repeated String.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Repeated String\obj\Debug\netcoreapp2.0\Repeated String.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Repeated String\obj\Debug\netcoreapp2.0\Repeated String.dll
+C:\Users\niko1.NVG\Desktop\Demo\Repeated String\obj\Debug\netcoreapp2.0\Repeated String.pdb

@@ -1,0 +1,11 @@
+C:\Users\niko1.NVG\Desktop\Demo\Cavity Map\bin\Debug\netcoreapp2.0\Cavity Map.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Cavity Map\bin\Debug\netcoreapp2.0\Cavity Map.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Cavity Map\bin\Debug\netcoreapp2.0\Cavity Map.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Cavity Map\bin\Debug\netcoreapp2.0\Cavity Map.dll
+C:\Users\niko1.NVG\Desktop\Demo\Cavity Map\bin\Debug\netcoreapp2.0\Cavity Map.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Cavity Map\obj\Debug\netcoreapp2.0\Cavity Map.csprojAssemblyReference.cache
+C:\Users\niko1.NVG\Desktop\Demo\Cavity Map\obj\Debug\netcoreapp2.0\Cavity Map.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Cavity Map\obj\Debug\netcoreapp2.0\Cavity Map.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Cavity Map\obj\Debug\netcoreapp2.0\Cavity Map.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Cavity Map\obj\Debug\netcoreapp2.0\Cavity Map.dll
+C:\Users\niko1.NVG\Desktop\Demo\Cavity Map\obj\Debug\netcoreapp2.0\Cavity Map.pdb

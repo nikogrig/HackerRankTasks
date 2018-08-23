@@ -1,0 +1,11 @@
+C:\Users\niko1.NVG\Desktop\Demo\Breaking the Records\bin\Debug\netcoreapp2.0\Breaking the Records.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Breaking the Records\bin\Debug\netcoreapp2.0\Breaking the Records.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Breaking the Records\bin\Debug\netcoreapp2.0\Breaking the Records.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Breaking the Records\bin\Debug\netcoreapp2.0\Breaking the Records.dll
+C:\Users\niko1.NVG\Desktop\Demo\Breaking the Records\bin\Debug\netcoreapp2.0\Breaking the Records.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Breaking the Records\obj\Debug\netcoreapp2.0\Breaking the Records.csprojAssemblyReference.cache
+C:\Users\niko1.NVG\Desktop\Demo\Breaking the Records\obj\Debug\netcoreapp2.0\Breaking the Records.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Breaking the Records\obj\Debug\netcoreapp2.0\Breaking the Records.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Breaking the Records\obj\Debug\netcoreapp2.0\Breaking the Records.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Breaking the Records\obj\Debug\netcoreapp2.0\Breaking the Records.dll
+C:\Users\niko1.NVG\Desktop\Demo\Breaking the Records\obj\Debug\netcoreapp2.0\Breaking the Records.pdb

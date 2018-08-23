@@ -1,0 +1,11 @@
+C:\Users\niko1.NVG\Desktop\Demo\Between Two Sets\bin\Debug\netcoreapp2.0\Between Two Sets.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Between Two Sets\bin\Debug\netcoreapp2.0\Between Two Sets.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Between Two Sets\bin\Debug\netcoreapp2.0\Between Two Sets.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Between Two Sets\bin\Debug\netcoreapp2.0\Between Two Sets.dll
+C:\Users\niko1.NVG\Desktop\Demo\Between Two Sets\bin\Debug\netcoreapp2.0\Between Two Sets.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Between Two Sets\obj\Debug\netcoreapp2.0\Between Two Sets.csprojAssemblyReference.cache
+C:\Users\niko1.NVG\Desktop\Demo\Between Two Sets\obj\Debug\netcoreapp2.0\Between Two Sets.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Between Two Sets\obj\Debug\netcoreapp2.0\Between Two Sets.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Between Two Sets\obj\Debug\netcoreapp2.0\Between Two Sets.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Between Two Sets\obj\Debug\netcoreapp2.0\Between Two Sets.dll
+C:\Users\niko1.NVG\Desktop\Demo\Between Two Sets\obj\Debug\netcoreapp2.0\Between Two Sets.pdb

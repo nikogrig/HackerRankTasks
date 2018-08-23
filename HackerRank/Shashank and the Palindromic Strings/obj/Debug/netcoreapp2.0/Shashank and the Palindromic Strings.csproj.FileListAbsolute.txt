@@ -1,0 +1,11 @@
+C:\Users\niko1.NVG\Desktop\Demo\Shashank and the Palindromic Strings\bin\Debug\netcoreapp2.0\Shashank and the Palindromic Strings.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Shashank and the Palindromic Strings\bin\Debug\netcoreapp2.0\Shashank and the Palindromic Strings.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Shashank and the Palindromic Strings\bin\Debug\netcoreapp2.0\Shashank and the Palindromic Strings.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Shashank and the Palindromic Strings\bin\Debug\netcoreapp2.0\Shashank and the Palindromic Strings.dll
+C:\Users\niko1.NVG\Desktop\Demo\Shashank and the Palindromic Strings\bin\Debug\netcoreapp2.0\Shashank and the Palindromic Strings.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Shashank and the Palindromic Strings\obj\Debug\netcoreapp2.0\Shashank and the Palindromic Strings.csprojAssemblyReference.cache
+C:\Users\niko1.NVG\Desktop\Demo\Shashank and the Palindromic Strings\obj\Debug\netcoreapp2.0\Shashank and the Palindromic Strings.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Shashank and the Palindromic Strings\obj\Debug\netcoreapp2.0\Shashank and the Palindromic Strings.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Shashank and the Palindromic Strings\obj\Debug\netcoreapp2.0\Shashank and the Palindromic Strings.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Shashank and the Palindromic Strings\obj\Debug\netcoreapp2.0\Shashank and the Palindromic Strings.dll
+C:\Users\niko1.NVG\Desktop\Demo\Shashank and the Palindromic Strings\obj\Debug\netcoreapp2.0\Shashank and the Palindromic Strings.pdb

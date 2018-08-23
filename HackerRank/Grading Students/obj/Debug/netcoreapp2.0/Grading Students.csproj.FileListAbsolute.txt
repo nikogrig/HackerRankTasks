@@ -1,0 +1,10 @@
+C:\Users\niko1.NVG\Desktop\Demo\Grading Students\bin\Debug\netcoreapp2.0\Grading Students.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Grading Students\bin\Debug\netcoreapp2.0\Grading Students.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Grading Students\bin\Debug\netcoreapp2.0\Grading Students.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Grading Students\bin\Debug\netcoreapp2.0\Grading Students.dll
+C:\Users\niko1.NVG\Desktop\Demo\Grading Students\bin\Debug\netcoreapp2.0\Grading Students.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Grading Students\obj\Debug\netcoreapp2.0\Grading Students.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Grading Students\obj\Debug\netcoreapp2.0\Grading Students.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Grading Students\obj\Debug\netcoreapp2.0\Grading Students.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Grading Students\obj\Debug\netcoreapp2.0\Grading Students.dll
+C:\Users\niko1.NVG\Desktop\Demo\Grading Students\obj\Debug\netcoreapp2.0\Grading Students.pdb

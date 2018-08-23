@@ -1,0 +1,11 @@
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Cake Candles\bin\Debug\netcoreapp2.0\Birthday Cake Candles.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Cake Candles\bin\Debug\netcoreapp2.0\Birthday Cake Candles.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Cake Candles\bin\Debug\netcoreapp2.0\Birthday Cake Candles.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Cake Candles\bin\Debug\netcoreapp2.0\Birthday Cake Candles.dll
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Cake Candles\bin\Debug\netcoreapp2.0\Birthday Cake Candles.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Cake Candles\obj\Debug\netcoreapp2.0\Birthday Cake Candles.csprojAssemblyReference.cache
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Cake Candles\obj\Debug\netcoreapp2.0\Birthday Cake Candles.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Cake Candles\obj\Debug\netcoreapp2.0\Birthday Cake Candles.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Cake Candles\obj\Debug\netcoreapp2.0\Birthday Cake Candles.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Cake Candles\obj\Debug\netcoreapp2.0\Birthday Cake Candles.dll
+C:\Users\niko1.NVG\Desktop\Demo\Birthday Cake Candles\obj\Debug\netcoreapp2.0\Birthday Cake Candles.pdb

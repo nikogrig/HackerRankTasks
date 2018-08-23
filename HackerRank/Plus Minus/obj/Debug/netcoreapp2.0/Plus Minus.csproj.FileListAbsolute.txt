@@ -1,0 +1,11 @@
+C:\Users\niko1.NVG\Desktop\Demo\Plus Minus\bin\Debug\netcoreapp2.0\Plus Minus.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Plus Minus\bin\Debug\netcoreapp2.0\Plus Minus.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Plus Minus\bin\Debug\netcoreapp2.0\Plus Minus.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Plus Minus\bin\Debug\netcoreapp2.0\Plus Minus.dll
+C:\Users\niko1.NVG\Desktop\Demo\Plus Minus\bin\Debug\netcoreapp2.0\Plus Minus.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Plus Minus\obj\Debug\netcoreapp2.0\Plus Minus.csprojAssemblyReference.cache
+C:\Users\niko1.NVG\Desktop\Demo\Plus Minus\obj\Debug\netcoreapp2.0\Plus Minus.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Plus Minus\obj\Debug\netcoreapp2.0\Plus Minus.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Plus Minus\obj\Debug\netcoreapp2.0\Plus Minus.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Plus Minus\obj\Debug\netcoreapp2.0\Plus Minus.dll
+C:\Users\niko1.NVG\Desktop\Demo\Plus Minus\obj\Debug\netcoreapp2.0\Plus Minus.pdb

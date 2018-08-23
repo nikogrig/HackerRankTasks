@@ -1,0 +1,11 @@
+C:\Users\niko1.NVG\Desktop\Demo\Mini-Max Sum\bin\Debug\netcoreapp2.0\Mini-Max Sum.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Mini-Max Sum\bin\Debug\netcoreapp2.0\Mini-Max Sum.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Mini-Max Sum\bin\Debug\netcoreapp2.0\Mini-Max Sum.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Mini-Max Sum\bin\Debug\netcoreapp2.0\Mini-Max Sum.dll
+C:\Users\niko1.NVG\Desktop\Demo\Mini-Max Sum\bin\Debug\netcoreapp2.0\Mini-Max Sum.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Mini-Max Sum\obj\Debug\netcoreapp2.0\Mini-Max Sum.csprojAssemblyReference.cache
+C:\Users\niko1.NVG\Desktop\Demo\Mini-Max Sum\obj\Debug\netcoreapp2.0\Mini-Max Sum.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Mini-Max Sum\obj\Debug\netcoreapp2.0\Mini-Max Sum.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Mini-Max Sum\obj\Debug\netcoreapp2.0\Mini-Max Sum.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Mini-Max Sum\obj\Debug\netcoreapp2.0\Mini-Max Sum.dll
+C:\Users\niko1.NVG\Desktop\Demo\Mini-Max Sum\obj\Debug\netcoreapp2.0\Mini-Max Sum.pdb

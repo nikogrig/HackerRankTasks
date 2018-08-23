@@ -1,0 +1,10 @@
+C:\Users\niko1.NVG\Desktop\Demo\Divisible Sum Pairs\bin\Debug\netcoreapp2.0\Divisible Sum Pairs.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Divisible Sum Pairs\bin\Debug\netcoreapp2.0\Divisible Sum Pairs.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Divisible Sum Pairs\bin\Debug\netcoreapp2.0\Divisible Sum Pairs.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Divisible Sum Pairs\bin\Debug\netcoreapp2.0\Divisible Sum Pairs.dll
+C:\Users\niko1.NVG\Desktop\Demo\Divisible Sum Pairs\bin\Debug\netcoreapp2.0\Divisible Sum Pairs.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Divisible Sum Pairs\obj\Debug\netcoreapp2.0\Divisible Sum Pairs.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Divisible Sum Pairs\obj\Debug\netcoreapp2.0\Divisible Sum Pairs.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Divisible Sum Pairs\obj\Debug\netcoreapp2.0\Divisible Sum Pairs.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Divisible Sum Pairs\obj\Debug\netcoreapp2.0\Divisible Sum Pairs.dll
+C:\Users\niko1.NVG\Desktop\Demo\Divisible Sum Pairs\obj\Debug\netcoreapp2.0\Divisible Sum Pairs.pdb

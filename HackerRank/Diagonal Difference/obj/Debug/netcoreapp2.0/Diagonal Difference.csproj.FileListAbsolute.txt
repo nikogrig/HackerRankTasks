@@ -1,0 +1,11 @@
+C:\Users\niko1.NVG\Desktop\Demo\Diagonal Difference\bin\Debug\netcoreapp2.0\Diagonal Difference.deps.json
+C:\Users\niko1.NVG\Desktop\Demo\Diagonal Difference\bin\Debug\netcoreapp2.0\Diagonal Difference.runtimeconfig.json
+C:\Users\niko1.NVG\Desktop\Demo\Diagonal Difference\bin\Debug\netcoreapp2.0\Diagonal Difference.runtimeconfig.dev.json
+C:\Users\niko1.NVG\Desktop\Demo\Diagonal Difference\bin\Debug\netcoreapp2.0\Diagonal Difference.dll
+C:\Users\niko1.NVG\Desktop\Demo\Diagonal Difference\bin\Debug\netcoreapp2.0\Diagonal Difference.pdb
+C:\Users\niko1.NVG\Desktop\Demo\Diagonal Difference\obj\Debug\netcoreapp2.0\Diagonal Difference.csprojAssemblyReference.cache
+C:\Users\niko1.NVG\Desktop\Demo\Diagonal Difference\obj\Debug\netcoreapp2.0\Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Diagonal Difference\obj\Debug\netcoreapp2.0\Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\niko1.NVG\Desktop\Demo\Diagonal Difference\obj\Debug\netcoreapp2.0\Diagonal Difference.AssemblyInfo.cs
+C:\Users\niko1.NVG\Desktop\Demo\Diagonal Difference\obj\Debug\netcoreapp2.0\Diagonal Difference.dll
+C:\Users\niko1.NVG\Desktop\Demo\Diagonal Difference\obj\Debug\netcoreapp2.0\Diagonal Difference.pdb
